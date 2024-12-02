@@ -1,0 +1,3 @@
+2)Cite três ferramentas ou tecnologias amplamente usadas no desenvolvimento web e explique como elas ajudam no processo de criação de aplicações web.
+
+Git e Github para armazenamento e controle de versão de código; Ferramentas de deployment como render, vercel e heroku; Linguagens de programação dinâmicas como o JavaScript.

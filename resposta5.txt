@@ -1,0 +1,3 @@
+5)Considere o cenário em que você está trabalhando em um projeto de site com sua dupla. Qual seria sua abordagem inicial para organizar as tarefas, escolher ferramentas e implementar boas práticas de versionamento e desenvolvimento?
+
+A organização de tarefas seriq esquematizada via kanbam com atribuições das tarefas para cada membro do grupo e instituição de prazos para a finalização delas; a escolha de ferramnetas ocorreria por meio de comunicação entre os membros da dupla sobre as tecnologias que cada um ja conhece e discussão de qual melhor implementar no projeto, e o controle de versionamento seria pelo repositorio do projeto no github.
